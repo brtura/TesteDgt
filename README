@@ -1,2 +1,10 @@
 Rotinas para testes diagnósticos escritas em R, por exemplo, um rotina que 
 atualiza a probabilidade da doença segundo o resultado de um teste.
+
+Alguns padrões de codigo
+
+1- toda a probabilidade iniciará com: P
+2- toda a chance iniciará com: O
+3- todo o resultado positivo será representado com: P
+4- todo o resultado negativo será representado com: N
+
